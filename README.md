@@ -10,8 +10,8 @@ This is a simple Flutter application that demonstrates the use of a navigation d
 
 ## Screenshots
 ![full Navigation Tab](https://github.com/25485YvesNshuti/Tab-Navigation-on-Sign-Up-Login-Calculator/assets/172855749/831604f2-938e-431f-b918-3ebeeec47d77)
+![SignUp](https://github.com/25485YvesNshuti/Tab-Navigation-on-Sign-Up-Login-Calculator/assets/172855749/c68a3998-4470-45aa-a279-818fb2d3d53e)
 
-![Sign up](https://github.com/25485YvesNshuti/Tab-Navigation-on-Sign-Up-Login-Calculator/assets/172855749/d039af96-8f32-41c5-b2aa-962c28f42c18)
 ![calculatorTab](https://github.com/25485YvesNshuti/Tab-Navigation-on-Sign-Up-Login-Calculator/assets/172855749/03251624-c971-4d5c-8d84-d3a5c1ba5e56)
 ![Sign IN](https://github.com/25485YvesNshuti/Tab-Navigation-on-Sign-Up-Login-Calculator/assets/172855749/939b9d6e-0311-430c-8f22-1fce87b64943)
 
